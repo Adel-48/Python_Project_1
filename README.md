@@ -11,10 +11,8 @@ Planning:
 I then had to think about the game mechanics and how to incorporate this into a small fun experience.
 I then thought back to one of the most addictive mini games I have ever played “Chao Adventure” (see image). This was a small mini game that could be played on the Dreamcast VMU (virtual memory unit) that was a mix between a Tamagotchi and Rock Paper Scissors. One Chao would take a turn and either attack or miss. I went for a 3 stage process while planning the boss fight which also shows on the flowchart:
 
-  —————— Death/Restart
- |                      |                     
- |                      |                    
- Boss introduction > Main Battle > Win screen > Credits
+                     
+ Boss introduction > Main Battle / Death/Restart > Win screen > Credits
 
 Implementation:
 I coded the final boss battle to be a similar experience with an option to attack or heal per turn. The attack is a ‘for loop’ that returns 3x random integers with a range between (7-24),  after each attack the boss will return the attack with the same mechanic but would be a higher range forcing the player to heal to win. 
