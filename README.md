@@ -9,7 +9,7 @@ I wanted to do something something with unicode emojis and adapted the ‘table 
 
 Planning:
 I then had to think about the game mechanics and how to incorporate this into a small fun experience.
-I then thought back to one of the most addictive mini games I have ever played “Chao Adventure” (see image). This was a small mini game that could be played on the Dreamcast VMU (virtual memory unit) that was a mix between a Tamagotchi and Rock Paper Scissors. One Chao would take a turn and either attack or miss. I went for a 3 stage process while planning the boss fight which also shows on the flowchart:
+I then thought back to one of the most addictive mini games I have ever played “Chao Adventure”. This was a small mini game that could be played on the Dreamcast VMU (virtual memory unit) that was a mix between a Tamagotchi and Rock Paper Scissors. One Chao would take a turn and either attack or miss. I went for a 3 stage process while planning the boss fight which also shows on the flowchart:
 
                      
  Boss introduction > Main Battle / Death/Restart > Win screen > Credits
