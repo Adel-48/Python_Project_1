@@ -11,7 +11,7 @@ Planning:
 I then had to think about the game mechanics and how to incorporate this into a small fun experience.
 I then thought back to one of the most addictive mini games I have ever played “Chao Adventure” (see image). This was a small mini game that could be played on the Dreamcast VMU (virtual memory unit) that was a mix between a Tamagotchi and Rock Paper Scissors. One Chao would take a turn and either attack or miss. I went for a 3 stage process while planning the boss fight which also shows on the flowchart:
 
-  ————————— Death/Restart—————
+  —————— Death/Restart
  |                      |                     
  |                      |                    
  Boss introduction > Main Battle > Win screen > Credits
